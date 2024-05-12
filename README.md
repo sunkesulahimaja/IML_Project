@@ -19,9 +19,9 @@ We have leveraged several powerful libraries to build our solution:
 
 Repo Contents
 ---
-1. ipynb of RandomForestClassifier.
-2. ipynb of Decision Trees, SVM, MLP and K-Means.
-3. A detailed report encapsulating the intricacies of the project.
+1. ipynb of RandomForestClassifier: IML_Project_RandomForest.ipynb
+2. ipynb of Decision Trees, SVM, MLP and K-Means: IMLProj_Models.ipynb
+3. A detailed report encapsulating the intricacies of the project: Report_IML.docx
    
 Our project separates Random Forest Model training from the rest based on aggregated results. What we aim to train further, is the Random Forest Model which provided promising results.
 
