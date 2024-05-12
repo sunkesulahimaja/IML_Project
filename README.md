@@ -24,7 +24,9 @@ Repo Contents
 3. A detailed report encapsulating the intricacies of the project.
    
 Our project separates Random Forest Model training from the rest based on aggregated results. What we aim to train further, is the Random Forest Model which provided promising results.
+
 Right now we have a robust machine learning model, but our ultimate future goal is to develop a real-time fraud detection system equipped with continuous monitoring capabilities. This system will enable timely identification and prevention of fraudulent activities, further enhancing the security of online transactions.
+
 We welcome community contributions to improve and sustain the project. 
 
 GitHub Accounts
