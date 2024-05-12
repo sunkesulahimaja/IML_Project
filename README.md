@@ -7,7 +7,7 @@ As online transactions continue to grow, the risk of fraudulent activities in on
 Overview
 ---
 The project methodology includes exploratory data analysis (EDA), supervised learning algorithms like Random Forest, SVM, MLP,and Decision Trees, and evaluation metrics to gauge model efficacy. By leveraging machine learning, we aim to reduce financial losses and ensure secure transactions in real-time.
-Our project also explores the idea of using Supervised learning using K-Means to solve the same problem, results of which have been analysed.
+Our project also explores the idea of using Unsupervised learning using K-Means to solve the same problem, results of which have been analysed.
 
 Libraries
 ---
