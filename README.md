@@ -31,12 +31,9 @@ Use the following steps to begin utilizing the models and examining the project 
 
 1. Make a local copy of the repository on your PC (Clone the repo)
 2. Open the project directory.
-3. Examine the files in Jupyter Notebook:
-   
-a.IML_Project_RandomForest.ipynb
-
-b. IMLProj_Models.ipynb
-
+3. Examine the ipynb files:
+   a.IML_Project_RandomForest.ipynb
+   b. IMLProj_Models.ipynb
 4. Examine the project report.
 
 Right now we have a robust machine learning model, but our ultimate future goal is to develop a real-time fraud detection system equipped with continuous monitoring capabilities. This system will enable timely identification and prevention of fraudulent activities, further enhancing the security of online transactions.
