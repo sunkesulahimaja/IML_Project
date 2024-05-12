@@ -9,7 +9,7 @@ Overview
 The project methodology includes exploratory data analysis (EDA), supervised learning algorithms like Random Forest, SVM, MLP,and Decision Trees, and evaluation metrics to gauge model efficacy. By leveraging machine learning, we aim to reduce financial losses and ensure secure transactions in real-time.
 Our project also explores the idea of using Unsupervised learning using K-Means to solve the same problem, results of which have been analysed.
 
-Libraries
+Dependencies
 ---
 We have leveraged several powerful libraries to build our solution:
 1. For data processing and manipulation, we utilized popular libraries such as NumPy and Pandas.
@@ -24,6 +24,17 @@ Repo Contents
 3. A detailed report encapsulating the intricacies of the project: Report_IML.docx
    
 Our project separates Random Forest Model training from the rest based on aggregated results. What we aim to train further, is the Random Forest Model which provided promising results.
+
+Getting Started
+---
+Use the following steps to begin utilizing the models and examining the project report:
+
+1. Make a local copy of the repository on your PC (Clone the repo)
+2. Open the project directory.
+3. Examine the files in Jupyter Notebook:
+a.IML_Project_RandomForest.ipynb
+b. IMLProj_Models.ipynb
+4. Examine the project report.
 
 Right now we have a robust machine learning model, but our ultimate future goal is to develop a real-time fraud detection system equipped with continuous monitoring capabilities. This system will enable timely identification and prevention of fraudulent activities, further enhancing the security of online transactions.
 
