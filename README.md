@@ -9,13 +9,13 @@ The project methodology includes exploratory data analysis (EDA), supervised lea
 
 Libraries
 ---
-We have leveraged several powerful libraries to build our solution. 
+We have leveraged several powerful libraries to build our solution:
 1. For data processing and manipulation, we utilized popular libraries such as NumPy and Pandas.
 2. Scikit-learn was instrumental in implementing various machine learning algorithms, enabling us to train and evaluate our models efficiently.
 3. For visualization purposes, we employed Matplotlib and Seaborn, which allowed us to create insightful plots and graphs to better understand our data and model performance.
 4. Additionally, we utilized the Tabulate library to present results and summaries in a structured format, enhancing readability and comprehension for stakeholders.
 
-ipynb notebooks:
+ipynb notebooks
 ---
 Our project separates Random Forest Model training from the rest based on aggregated results. What we aim to train further, is the Random Forest Model which provided promising results.
 
