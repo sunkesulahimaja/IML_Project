@@ -10,9 +10,13 @@ The project methodology includes exploratory data analysis (EDA), supervised lea
 We welcome community contributions to improve and sustain the project. 
 
 Users can reach out to our team through our GitHub accounts with any feedback they may have:
+
 shravya22rvu
+
 sunkesulahimaja
+
 ChinthalaUpagnaReddy
+
 kotnadamuktha04
 
 We appreciate your interest in our resource and welcome your participation!
